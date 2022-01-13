@@ -1,0 +1,19 @@
+{
+    "name": "second-lambda",
+    "version": "1.0.0",
+    "description": "This is package for the second lambda",
+    "main": "app.ts",
+    "author": "Majd Soufan",
+    "license": "MIT-0",
+    "devDependencies": {
+        "@types/aws-lambda": "^8.10.89",
+        "@types/xml2js": "^0.4.9"
+    },
+    "dependencies": {
+        "xml2js": "^0.4.23",
+        "@aws-sdk/client-sqs": "3.45.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}

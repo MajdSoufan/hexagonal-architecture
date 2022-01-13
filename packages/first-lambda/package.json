@@ -1,0 +1,19 @@
+{
+    "name": "first-lambda",
+    "version": "1.0.0",
+    "description": "This is package for the first lambda",
+    "main": "app.ts",
+    "author": "Majd Soufan",
+    "license": "MIT-0",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "@aws-sdk/client-dynamodb": "3.45.0",
+        "@aws-sdk/lib-dynamodb": "3.45.0"
+    },
+    "devDependencies": {
+        "@types/aws-lambda": "^8.10.89"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
