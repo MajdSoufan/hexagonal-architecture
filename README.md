@@ -27,3 +27,13 @@ When we want to evolve the application adding a cache-aside pattern using an Ela
 const getCurrencies = require("../adapters/CurrencyConverterWithCache");
 ```
 
+
+![Hex Arch](./hex-primary-secondary-actors.png)
+![Hex Arch](./hex-arch.png)
+![Hex Arch](./hex-to-dynamo.png)
+![Hex Arch](./hex-to-external-api.png)
+![Hex Arch](./hex-input-output-ports.png)
+![Hex Arch](./hex-adapters-types.png)
+![Hex Arch](./hex-dependency-map.png)
+
+
